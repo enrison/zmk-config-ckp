@@ -5,8 +5,8 @@
 #include <dt-bindings/zmk/backlight.h>
 
 &kscan0 {
-    debounce-press-ms = <15>;
-    debounce-release-ms = <5>;
+    debounce-press-ms = <27>;
+    debounce-release-ms = <3>;
 };
 
 / {
